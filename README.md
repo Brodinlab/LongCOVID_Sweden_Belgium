@@ -9,11 +9,12 @@ Currently available on [MedRxiv](https://dx.doi.org/10.1186%2Fs13059-014-0550-8)
 * [Repo description](#repo-description)
 
 ## General info
-This project used multiple omics data:
+The omics data included in this study:
 - Plasma protein expression (Olink - NPX values)
 - Cell frequencies (CyTOF - FlowSOM cell frequencies)
 - Single-cell TCR and mRNA sequencing (BD Rhapsody - TCR sequences and gene counts)
-	
+- Serological measurements 
+
 ## Dependencies
 Project is created with:
 * RStudio version: 4.2.1
