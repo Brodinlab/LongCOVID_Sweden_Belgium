@@ -1,5 +1,6 @@
 # LongCOVID_Sweden_Belgium
 Code to reproduce the figures of the manuscript entitled: "Restrained memory CD8+ T cell responses favors viral persistence and elevated IgG responses in patients with severe Long COVID" 
+
 Currently available on [MedRxiv](https://dx.doi.org/10.1186%2Fs13059-014-0550-8)
 
 ## Table of contents
@@ -11,7 +12,7 @@ Currently available on [MedRxiv](https://dx.doi.org/10.1186%2Fs13059-014-0550-8)
 This project used multiple omics data:
 - Plasma protein expression (Olink - NPX values)
 - Cell frequencies (CyTOF - FlowSOM cell frequencies)
-- single-cell TCR and mRNA sequencing (BD Rhapsody - TCR sequences and gene counts)
+- Single-cell TCR and mRNA sequencing (BD Rhapsody - TCR sequences and gene counts)
 	
 ## Dependencies
 Project is created with:
